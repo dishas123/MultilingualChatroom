@@ -1,5 +1,5 @@
 # MultilingualChatroom <br>
-A TCP based chatroom in which clients can communicate with each other in different languages due to the automatic translation feature. <br>
+A TCP based chatroom in which clients can communicate with each other in 10 different languages due to the automatic translation feature. <br>
 # STEPS TO RUN: <br>
 STEP 1: Cloning the repo<br>
 Clone the github repo by opening a new terminal and typing <br>
